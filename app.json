@@ -1,0 +1,17 @@
+{
+  "name": "woordiApp",
+  "displayName": "woordiApp",
+  "expo": {
+    "name": "woordiApp",
+    "slug": "woordiApp",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
